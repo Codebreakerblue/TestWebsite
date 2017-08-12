@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: rgb(25, 25, 200);
+  /* Old browsers */
+  background: -moz-linear-gradient(45deg, whitesmoke 0%, lightsteelblue 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, whitesmoke 0%, lightsteelblue 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, whitesmoke 0%, lightsteelblue 100%);
+  height: 1000px;
+}
+
+.header-top {
+  font-family: 'Ariel', sans-serif;
+  font-size: 32px;
+  text-align: center;
+  font-weight: 800;
+}
